@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: hrf5vhhqh-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/hrf5vhhqh-go
